@@ -7,6 +7,8 @@
  */
 
 $b1 = "This is b1 branch";
+$b1 = "this is master branch";
+
 $a = 1;
 $b = 2;
 $c = "hello vietnam";
