@@ -6,6 +6,8 @@
  * Time: 2:27 PM
  */
 
+$b1 = "this is master branch";
+
 $a = 1;
 $b = 2;
 $c = "hello vietnam";
